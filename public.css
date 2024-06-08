@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.back{
+    background: url("image/school.jpg");
+   
+    background-repeat: repeat;
+    min-height: 100%;
+    width: 100%;
+}
+
+/*Carousel*/
+
+.onecontain{
+    background-color: rgb(240, 177, 154);
+    height: 100%;
+}
+
+/*Navbar*/
+.navls{
+    border: 1px solid rgb(175, 173, 173);
+    background-color: #c02032;
+    padding: 4px ;
+   
+}
+.navls:hover{
+   background-color: #f8455a;
+   
+}
+.navls a{
+    text-decoration: none;
+    color: white;
+}
+.navls a:hover{
+    color: #520710;
+}
+.navlsd{
+    border: 1px solid rgb(175, 173, 173);
+    background-color: #c02032;
+    padding: 4px ;
+   
+}
+
+
+
+/*-------------Navbar----------------*/
+
+/*--Table----*/
+
+.custom-table {
+    border: 2px solid rgb(85, 85, 85);
+  
+   
+   
+   
+}
+.custom-table td, .custom-table th {
+    border: 2px solid rgb(85, 85, 85);
+    font-size: 14px; 
+    font-weight: bolder;
+    text-align: center;
+    
+    
+   
+    
+}
+
+
+/*-------------Table--------------*/
+
+/*Footer*/
+.foot{
+    background-color: #eb9b7e;
+}
+
+.colfoot1{
+   
+}
+
+
